@@ -9,5 +9,5 @@ for (int r = 1; r <= n; ++r) {
         }
         cout << '\n';
     }
- return 0;
+  return 0;
 }
